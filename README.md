@@ -1,6 +1,6 @@
 # Introduction to Data Acquisition, Data Mining, and Data Collection
 
-<img src="assets/data-collection.png" alt="data collection" width="500" height="500">
+<img src="assets/data-collection.webp" alt="data collection" width="500" height="500">
 
 ## Introduction
 
